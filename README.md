@@ -35,6 +35,7 @@ We use the output from Task 3: `similarity_output_task3.csv`, which includes:
 Feature Importance (Random Forest): `Similarity_Score ≈ 1.0`
 ---
 ## 📸 Output Screenshot
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0c6a3615-4136-4c0f-8de7-a66e50c011e2)
+
 
 
