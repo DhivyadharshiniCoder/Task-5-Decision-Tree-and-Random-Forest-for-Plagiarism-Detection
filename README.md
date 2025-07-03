@@ -35,7 +35,7 @@ We use the output from Task 3: `similarity_output_task3.csv`, which includes:
 
 ## 🔍 Results
 
-| Model         | Accuracy | F1 Score |
+| Model         | Accuracy, F1 Score |
 |---------------|----------|----------|
 | Decision Tree | ✅ Shown in output |
 | Random Forest | ✅ Shown in output |
