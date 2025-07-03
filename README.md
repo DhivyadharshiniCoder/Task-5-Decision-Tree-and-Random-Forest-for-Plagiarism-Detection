@@ -46,5 +46,3 @@ Feature Importance (Random Forest): `Similarity_Score ≈ 1.0`
 
 ## 📸 Output Screenshot
 
-Make sure to upload your decision tree or console output:
-
