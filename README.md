@@ -32,17 +32,9 @@ We use the output from Task 3: `similarity_output_task3.csv`, which includes:
 6. Printed feature importance (from Random Forest)
 
 ---
-
-## 🔍 Results
-
-| Model         | Accuracy, F1 Score |
-|---------------|----------|----------|
-| Decision Tree | ✅ Shown in output |
-| Random Forest | ✅ Shown in output |
-
 Feature Importance (Random Forest): `Similarity_Score ≈ 1.0`
-
 ---
-
 ## 📸 Output Screenshot
+output_task4.png
+
 
